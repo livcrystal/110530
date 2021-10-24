@@ -1,3 +1,21 @@
 body {
   background-color: aqua;
 }
+
+header {
+  width: 300px;
+  height: 25px;
+  background-color: blueviolet;
+}
+
+#main {
+  width: 600px;
+  height: 450px;
+  background-color: chocolate;
+}
+
+footer {
+  width: 100px;
+  height: 350px;
+  background-color: cornsilk;
+}
